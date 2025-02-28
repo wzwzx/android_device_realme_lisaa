@@ -232,9 +232,8 @@ PRODUCT_COPY_FILES += \
 # Overlays
 PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
-    OPlusSettingsProviderRes10R \
-    OPlusSettingsProviderResNeo3 \
-    OPlusSettingsProviderResAce \
+    OPlusSettingsProviderResAce2V \
+    OPlusSettingsProviderResNord3 \
     OPlusSettingsResTarget \
     OPlusSystemUIResTarget \
     OPlusTelephonyResTarget \
